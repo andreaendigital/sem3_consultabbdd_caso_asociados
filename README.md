@@ -87,12 +87,17 @@ A partir de lo expuesto anteriormente, construye la sentencia SQL considerando l
 
 ## Solución planteada:
 
+Caso 1
 
 <img width="998" height="219" alt="Captura de pantalla 2025-11-08 172703" src="https://github.com/user-attachments/assets/43a1f0e8-ed97-46f6-9e2d-525fb3ff69d8" />
 
 <img width="1012" height="203" alt="Captura de pantalla 2025-11-08 172715" src="https://github.com/user-attachments/assets/f7208486-9a7f-4626-8393-308987c88ed2" />
 
+Caso 2
+
 <img width="795" height="193" alt="Captura de pantalla 2025-11-08 172523" src="https://github.com/user-attachments/assets/d92fc8d0-5592-43f8-bdc7-f8820f9ebda7" />
+
+Caso 3
 
 <img width="974" height="117" alt="Captura de pantalla 2025-11-08 172454" src="https://github.com/user-attachments/assets/5b4f1ef3-5906-4d9d-9b74-e0178e13ffce" />
 
